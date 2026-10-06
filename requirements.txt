@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+pydantic
+python-multipart
+aiofiles
